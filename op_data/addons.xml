@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="cinema.photos" name="cinema.photos" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="cinema.krypton.userdata" name="cinema krypton userdata" version="1.0.1" provider-name="kodi senyor"></addon>
+<addon id="phenomenal.jervis.userdata" name="phenomenal jervis userdata" version="1.0.1" provider-name="kodi senyor"></addon>
+<addon id="phenomenal.krypton.userdata" name="phenomenal krypton userdata" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="titan.krypton.userdata" name="titan jkrypton userdata" version="1.0.3" provider-name="kodi senyor"></addon>
+<addon id="titan.krypton.horizental.userdata" name="titan krypton horizental userdata" version="1.0.1" provider-name="kodi senyor"></addon>
+<addon id="titan.krypton.horizental.thumbs.userdata" name="titan krypton horizental thumbs userdata" version="1.0.2" provider-name="kodi senyor"></addon>
+<addon id="titan.krypton.vertical.thumbs.userdata" name="titan krypton vertical thumbs userdata" version="1.0.1" provider-name="kodi senyor"></addon>
+<addon id="titan.krypton.vertical.lowpower.userdata" name="titan krypton lowpower userdata" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="featherence.jervis.userdata" name="featherence jervis userdata" version="1.0.1" provider-name="kodi senyor"></addon>
+<addon id="userdata.general" name="userdata general" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="wiz.wall.data" name="wiz wall data" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="senyor.wall.data" name="senyor wall data" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="phenomenal.media" name="phenomenal media" version="1.0.1" provider-name="kodi senyor"></addon>
+<addon id="featherence.media" name="featherence media" version="1.0.1" provider-name="kodi senyor"></addon>
+<addon id="pvr.userdata" name="pvr userdata" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="basic_userdata" name="basic userdata" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="xonfluence.jervis.kreptonyz" name="xonfluence jervis kreptonyz" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="xonfluence.krypton.kreptonyz" name="xonfluence krypton kreptonyz" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="pvr.libraelec" name="pvr libraelec" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="pvr.openelec" name="pvr openelec" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="roid.userdata" name="roid userdata" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="senyor.wall.jervis.data" name="senyor wall jervis data" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="senyor.wall.krypton.data" name="senyor wall krypton data" version="1.0.2" provider-name="kodi senyor"></addon>
+<addon id="featherence.krypton.userdata" name="featherence krypton userdata" version="1.0.2" provider-name="kodi senyor"></addon>
+<addon id="quasar.burst.userdata" name="quasar burst userdata" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="cinema.krypton.gui" name="cinema krypton gui" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="featherence.krypton.gui" name="featherence krypton gui" version="1.0.1" provider-name="kodi senyor"></addon>
+<addon id="plugin.video.all_addons_stream_light" name="plugin.video.all_addons_stream_light" version="1.3.0" provider-name="kodi senyor"></addon>
+<addon id="en_wall" name="en wall" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="he_wall" name="he wall" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="ru_wall" name="ru wall" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="titan_lan_he_en_ru" name="titan lan he en ru" version="1.0.0" provider-name="kodi senyor"></addon>
+</addons>
