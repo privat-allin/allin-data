@@ -11,8 +11,8 @@
 <addon id="titan.krypton.vertical.lowpower.userdata" name="titan krypton lowpower userdata" version="1.0.0" provider-name="kodi senyor"></addon>
 <addon id="featherence.jervis.userdata" name="featherence jervis userdata" version="1.0.1" provider-name="kodi senyor"></addon>
 <addon id="userdata.general" name="userdata general" version="1.0.0" provider-name="kodi senyor"></addon>
-<addon id="wiz.wall.data" name="wiz wall data" version="1.0.0" provider-name="kodi senyor"></addon>
 <addon id="senyor.wall.data" name="senyor wall data" version="1.0.0" provider-name="kodi senyor"></addon>
+<addon id="imdb.wall.data" name="imdb wall data" version="1.0.0" provider-name="op"></addon>
 <addon id="phenomenal.media" name="phenomenal media" version="1.0.1" provider-name="kodi senyor"></addon>
 <addon id="featherence.media" name="featherence media" version="1.0.1" provider-name="kodi senyor"></addon>
 <addon id="pvr.userdata" name="pvr userdata" version="1.0.0" provider-name="kodi senyor"></addon>
