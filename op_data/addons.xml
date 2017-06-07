@@ -2,6 +2,7 @@
 <addons>
 <addon id="cinema.photos" name="cinema.photos" version="1.0.0" provider-name="kodi senyor"></addon>
 <addon id="cinema.krypton.userdata" name="cinema krypton userdata" version="1.0.1" provider-name="kodi senyor"></addon>
+<addon id="xonfluence.krypton.userdata" name="xonfluence krypton userdata" version="1.0.1" provider-name="op"></addon>
 <addon id="phenomenal.jervis.userdata" name="phenomenal jervis userdata" version="1.0.1" provider-name="kodi senyor"></addon>
 <addon id="phenomenal.krypton.userdata" name="phenomenal krypton userdata" version="1.0.0" provider-name="kodi senyor"></addon>
 <addon id="titan.krypton.userdata" name="titan jkrypton userdata" version="1.0.3" provider-name="kodi senyor"></addon>
