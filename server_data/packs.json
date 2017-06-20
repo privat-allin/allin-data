@@ -1,7 +1,7 @@
 [{
 	"id": "Basic",
 	"name": "Basic",
-	"zip": ["https://github.com/privat-allin/allin-data/tree/master/op_data/basic_userdata/"],
+	"zip": ["https://github.com/privat-allin/allin-data/blob/master/op_data/basic_userdata/basic_userdata-1.0.0.zip?raw=true"],
 	"addons": ["repository.kodil","plugin.video.exodus"],
 	"img": "http://i.imgur.com/aaaa.jpg",
 	"fanart": "http://i.imgur.com/aaaa.jpg",
