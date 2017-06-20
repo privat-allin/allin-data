@@ -2,7 +2,7 @@
 	"id": "AAAA",
 	"name": "A Wizard",
 	"zip": ["https://github.com/privat-allin/allin-data/blob/master/op_data/xonfluence.krypton.userdata/pack-1.0.zip?raw=true"],
-	"addons": ["plugin.audio.mixcloud","plugin.image.500px"],
+	"addons": ["repository.kodil","plugin.video.exodus"],
 	"img": "http://i.imgur.com/aaaa.jpg",
 	"fanart": "http://i.imgur.com/aaaa.jpg",
 	"description": "Complete installation of the Kodi."
