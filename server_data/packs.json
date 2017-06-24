@@ -1,8 +1,8 @@
 [{
 	"id": "Basic",
 	"name": "Basic",
-	"zip": ["https://github.com/privat-allin/allin-data/blob/master/op_data/basic_userdata/basic_userdata-1.0.0.zip?raw=true"],
-	"addons": ["repository.kodil","plugin.video.exodus","repository.all-in","repository.xbmc-israel","plugin.video.elysium"],
+	"zip": ["https://github.com/privat-allin/allin-data/blob/master/op_data/basic_userdata/basic_userdata-1.0.0.zip?raw=true","https://github.com/privat-allin/allin-data/blob/master/op_data/imdb.wall.krypton.data/imdb.wall.krypton.data-1.0.2.zip?raw=true"],
+	"addons": ["repository.all-in","repository.kodil","repository.xbmc-israel","plugin.video.RoiD","plugin.video.exodus","repository.all-in","repository.xbmc-israel","plugin.video.elysium","plugin.video.metalliq","plugin.video.imdb.watchlists","resource.language.he_il","service.subtitles.wizdom","service.subtitles.opensubtitles_by_opensubtitles","plugin.video.anarchitv","plugin.video.Vodil"],
 	"img": "http://i.imgur.com/aaaa.jpg",
 	"fanart": "http://i.imgur.com/aaaa.jpg",
 	"description": "Complete installation of the Kodi."
