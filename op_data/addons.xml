@@ -11,7 +11,7 @@
 <addon id="featherence.media" name="featherence media" version="1.0.1" provider-name="op"></addon>
 <addon id="basic_userdata" name="basic userdata" version="1.0.0" provider-name="op"></addon>
 <addon id="xonfluence.krypton.kreptonyz" name="xonfluence krypton kreptonyz" version="1.0.0" provider-name="op"></addon>
-<addon id="imdb.wall.krypton.data" name="imdb wall krypton data" version="1.0.1" provider-name="op"></addon>
+<addon id="imdb.wall.krypton.data" name="imdb wall krypton data" version="1.0.2" provider-name="op"></addon>
 <addon id="featherence.krypton.userdata" name="featherence krypton userdata" version="1.0.0" provider-name="op"></addon>
 <addon id="he_wall" name="he wall" version="1.0.0" provider-name="op"></addon>
 <addon id="titan_lan_he_en_ru" name="titan lan he en ru" version="1.0.0" provider-name="op"></addon>
