@@ -33,4 +33,13 @@
 	"img": "http://i.imgur.com/aaaa.jpg",
 	"fanart": "http://i.imgur.com/aaaa.jpg",
 	"description": "Complete installation of the Kodi."
+},
+{
+	"id": "update",
+	"name": "update",
+	"zip": [],
+	"addons": ["service.subtitles.All_Subs"],
+	"img": "http://i.imgur.com/aaaa.jpg",
+	"fanart": "http://i.imgur.com/aaaa.jpg",
+	"description": "Complete installation of the Kodi."
 }]
