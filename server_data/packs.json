@@ -44,6 +44,15 @@
 	"description": "Complete installation of the Kodi."
 },
 {
+	"id": "nox",
+	"name": "nox",
+	"zip": ["https://github.com/privat-allin/allin-data/blob/master/op_data/nox.krypton.userdata/eminence.krypton.userdata-1.0.0.zip?raw=true","https://github.com/privat-allin/allin-data/blob/master/op_data/imdb.wall.krypton.data/imdb.wall.krypton.data-1.0.2.zip?raw=true"],
+	"addons": ["plugin.video.op_menu_addon","repository.all-in","repository.Ebs","plugin.video.covenant","repository.kodil","repository.xbmc-israel","skin.aeon.nox.5","plugin.video.RoiD","plugin.video.exodus","repository.all-in","repository.xbmc-israel","plugin.video.elysium","plugin.video.metalliq","plugin.video.imdb.watchlists","resource.language.he_il","service.subtitles.wizdom","service.subtitles.opensubtitles_by_opensubtitles","plugin.video.anarchitv","plugin.video.Vodil","context.subtitlesdialog.contextmenu","service.autosubsop","plugin.program.autocompletion","plugin.program.meta_search","script.module.autocompletion","script.randomandlastitems","script.favourites","plugin.program.optools","plugin.video.filmon.simple","plugin.video.specto","plugin.video.hotVOD.video","plugin.video.DecadoDocs","repository.RoiD","plugin.video.RoiD","plugin.video.sdarot.tv","plugin.video.ukturk","plugin.video.reshet.ebs.video","plugin.video.featherence.docu","plugin.video.documentarytube","plugin.video.kmusictube","plugin.video.featherence.kids","plugin.video.ccloudtv","plugin.video.tenil","service.addons.autoupdate","plugin.video.he-trailers","plugin.video.wallaNew.video","plugin.video.IBA","plugin.video.reshet.video","plugin.video.makoTV.video","plugin.video.MakoTV","plugin.video.last_played","program.apollo","repository.apollo","service.subtitles.All_Subs"],
+	"img": "http://i.imgur.com/aaaa.jpg",
+	"fanart": "http://i.imgur.com/aaaa.jpg",
+	"description": "Complete installation of the Kodi."
+},
+{
 	"id": "update",
 	"name": "update",
 	"zip": [],
