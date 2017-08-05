@@ -65,7 +65,7 @@
 	"id": "update",
 	"name": "update",
 	"zip": [],
-	"addons": ["service.subtitles.All_Subs"],
+	"addons": [],
 	"img": "http://i.imgur.com/aaaa.jpg",
 	"fanart": "http://i.imgur.com/aaaa.jpg",
 	"description": "Complete installation of the Kodi."
