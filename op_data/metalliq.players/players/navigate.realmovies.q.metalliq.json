@@ -1,0 +1,23 @@
+{
+ "name"         : "[COLOR red]Real Movies[/COLOR] ([COLOR gold]HD Movies[/COLOR])",
+ "repository"   : "repository.metalkettle",
+ "plugin"       : "plugin.video.real-movies",
+ "priority"     : 400,
+ "id"           : "navigate.realmovies.q",
+ "filters"      : {},
+ "postprocess"  : "",
+ "movies"       : [
+  [
+   {
+    "link"      : "plugin://plugin.video.real-movies/",
+    "steps"     : [
+    "@anycontaining:HD-MOVIES",
+    ".*{title}.*"
+     ],
+    "action"    : "PLAY"
+
+ 
+   }
+  ]
+ ] 
+}

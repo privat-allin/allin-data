@@ -1,0 +1,23 @@
+{
+ "name"         : "[COLOR red]Drstream[/COLOR] ([COLOR gold]Dts Movies[/COLOR])",
+ "repository"   : "repository.metalkettle",
+ "plugin"       : "plugin.video.Drstream",
+ "priority"     : 400,
+ "id"           : "navigate.realmovies.q",
+ "filters"      : {},
+ "postprocess"  : "",
+ "movies"       : [
+  [
+   {
+    "link"      : "plugin://plugin.video.Drstream/",
+    "steps"     : [
+    "@anycontaining:[COLOR white][B]DTS Movies (2017)[/B] [/COLOR]|[COLOR white][B]DTS Movies (2016)[/B] [/COLOR]|[COLOR white][B]DTS Movies (2015)[/B] [/COLOR]",
+    ".*{title}.*"
+     ],
+    "action"    : "PLAY"
+
+ 
+   }
+  ]
+ ] 
+}

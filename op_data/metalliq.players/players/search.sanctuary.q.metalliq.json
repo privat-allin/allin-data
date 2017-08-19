@@ -1,0 +1,24 @@
+{
+ "name"         : " Search sanctuary ([COLOR green]1080P[/COLOR]) ([COLOR yellow]720P[/COLOR])",
+ "repository"   : "repository.xbmchub",
+ "plugin"       : "plugin.video.sanctuary",
+ "priority"     : 15,
+ "id"           : "direct.sanctuary.q",
+ "filters"      : {},
+ "postprocess"  : "",
+ "movies"       : [
+  [
+   {
+    "link"      : "plugin://plugin.video.sanctuary/?description&extra=OLD&fanart=H%3a%5cUsers%5ckobi%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.sanctuary%5cfanart.jpg&iconimage=H%3a%5cUsers%5ckobi%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.sanctuary%5cicon.png&mode=1501&name={title}&url=Movies",
+        "steps": [
+        "keyboard: {title}",
+        "($$.*$$){title}($$.*$$)"
+      ], 
+    "action"    : "PLAY"
+   }
+  ]
+ ],
+ "musicvideos"  : [],
+ "music"        : [],
+ "live"         : []
+}

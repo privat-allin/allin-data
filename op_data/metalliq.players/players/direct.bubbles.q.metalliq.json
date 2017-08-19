@@ -1,0 +1,30 @@
+{
+ "name"         : "bubbles ([COLOR green]סרטים וסדרות[/COLOR])",
+ "repository"   : "repository.bubbles",
+ "plugin"       : "plugin.video.bubbles",
+ "priority"     : 400,
+ "id"           : "direct.bubbles.q",
+ "filters"      : {},
+ "postprocess"  : "",
+ "movies"       : [
+  [
+   {
+    "link"      : "plugin://plugin.video.bubbles/?action=play&title={title}&year={year}&imdb={imdb}&meta=%7B%22rating%22%3A+%22%22%2C+%22poster%22%3A+%22https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FM%2FMV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE%40._V1_SX500.jpg%22%2C+%22title%22%3A+%22{title}%22%2C+%22originaltitle%22%3A+%22{title}%22%2C+%22mpaa%22%3A+%22%22%2C+%22next%22%3A+%22http%3A%2F%2Fwww.imdb.com%2Fsearch%2Ftitle%3Ftitle_type%3Dfeature%2Ctv_movie%26languages%3Den%26num_votes%3D100%2C%26production_status%3Dreleased%26year%3D2016%2C2016%26sort%3Dmoviemeter%2Casc%26count%3D40%26start%3D1%26page%3D2%26ref_%3Dadv_nxt%22%2C+%22director%22%3A+%22Damien+Chazelle%22%2C+%22genre%22%3A+%22%5Cu05e7%5Cu05d5%5Cu05de%5Cu05d3%5Cu05d9%5Cu05d4+%2F+%5Cu05d3%5Cu05e8%5Cu05de%5Cu05d4+%2F+Musical%22%2C+%22imdb%22%3A+%22tt3783958%22%2C+%22premiered%22%3A+%222016-12-25%22%2C+%22year%22%3A+%22{year}%22%2C+%22duration%22%3A+%227680%22%2C+%22mediatype%22%3A+%22movie%22%2C+%22trailer%22%3A+%22plugin%3A%2F%2Fplugin.video.bubbles%2F%3Faction%3Dtrailer%26name%3D{title}%2B%2528{year}%%2529%22%2C+%22metacache%22%3A+true%7D&={now}",
+    "steps"     : [],
+    "action"    : "PLAY"
+   }
+  ]
+ ],
+ "tvshows"      : [
+  [
+   {
+    "link"      :"plugin://plugin.video.bubbles/?action=play&title=Ready&year={year}&imdb={imdb}&tvdb={id}&season={season}&episode={episode}&tvshowtitle={clearname}&premiered={firstaired}&meta=%7B%22rating%22%3A+%228.0%22%2C+%22imdb%22%3A+%22{imdb}%22%2C+%22year%22%3A+%22{year}%22%2C+%22duration%22%3A+%222700%22%2C+%22plot%22%3A+%22{plot}%22%2C+%22votes%22%3A+%221%22%2C+%22thumb%22%3A+%22http%3A%2F%2Fthetvdb.com%2Fbanners%2Fepisodes%2F311892%2F5770696.jpg%22%2C+%22title%22%3A+%22{title}%22%2C+%22tvdb%22%3A+%22{id}%22%2C+%22mpaa%22%3A+%22TV-MA%22%2C+%22label%22%3A+%22{title}%22%2C+%22season%22%3A+%22{season}%22%2C+%22status%22%3A+%22Continuing%22%2C+%22poster%22%3A+%22{poster}%22%2C+%22tvshowtitle%22%3A+%22{clearname}%22%2C+%22mediatype%22%3A+%22episode%22%2C+%22{episode}%22%3A+%22NBC%22%2C+%22genre%22%3A+%22%5Cu05d0%5Cu05e7%5Cu05e9%5Cu05df+%2F+%5Cu05e4%5Cu05e9%5Cu05e2+%2F+%5Cu05de%5Cu05d5%5Cu05ea%5Cu05d7%5Cu05df%22%2C+%22banner%22%3A+%22http%3A%2F%2Fthetvdb.com%2Fbanners%2Fgraphical%2F311892-g.jpg%22%2C+%22fanart%22%3A+%22http%3A%2F%2Fthetvdb.com%2Fbanners%2Ffanart%2Foriginal%2F311892-5.jpg%22%2C+%22episode%22%3A+%22%22%2C+%22premiered%22%3A+%222017-03-06%22%2C+%22cast%22%3A+%5B%5B%22Clive+Standen%22%2C+%22%22%5D%2C+%5B%22Jennifer+Beals%22%2C+%22%22%5D%2C+%5B%22Brooklyn+Sudano%22%2C+%22%22%5D%2C+%5B%22Jose+Pablo+Cantillo%22%2C+%22%22%5D%2C+%5B%22James+Landry+H%5Cu00e9bert%22%2C+%22%22%5D%2C+%5B%22Michael+Irby%22%2C+%22%22%5D%2C+%5B%22Gaius+Charles%22%2C+%22%22%5D%2C+%5B%22Monique+Gabriela+Curnen%22%2C+%22%22%5D%5D%2C+%22trailer%22%3A+%22plugin%3A%2F%2Fplugin.video.bubbles%2F%3Faction%3Dtrailer%26name%3{clearname}%22%7D&t={now}",
+    "steps"     : [],
+    "action"    : "PLAY"
+   }
+  ]
+ ],
+ "musicvideos"  : [],
+ "music"        : [],
+ "live"         : []
+}
